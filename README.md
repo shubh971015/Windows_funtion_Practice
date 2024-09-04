@@ -3,7 +3,7 @@
  I've mastered complex ranking scenarios, learned to handle ties effectively, and applied window functions for grouped data. I've also practiced conditional ranking to target specific insights and balanced query complexity with performance. These skills enhance my ability to analyze and extract meaningful insights from large datasets efficiently.
 
 
-I also Practice this intermediate to advanced-level 10 question focused on windows ranking funtion.
+I also Practice this intermediate to advanced-level 10 question focused on windows ranking funtion on IMDB Datasets. 
 
 1. Ranking Movies by Box Office Revenue
 
