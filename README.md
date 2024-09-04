@@ -6,6 +6,7 @@
 I also Practice this intermediate to advanced-level 10 question focused on windows ranking funtion.
 
 1. Ranking Movies by Box Office Revenue
+
 Rank movies in the IMDB dataset based on their box office revenue, with ties receiving the same rank. What is the rank of the highest-grossing movie?
 2. Top Directors by Average Movie Rating
 Rank directors based on the average rating of their movies. How does the rank change when only considering directors with more than 5 movies?
